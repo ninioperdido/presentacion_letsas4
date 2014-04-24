@@ -1,0 +1,26 @@
+/* Custom CSS for your KeyDown presentation here */
+
+/* Uncomment to turn off deck.js navigation */
+/*.deck-prev-link,*/
+/*.deck-next-link {*/
+    /*display: none;*/
+/*}*/
+
+/* Uncomment to turn off deck.js status */
+/*.deck-status {*/
+    /*display: none;*/
+/*}*/
+
+    @font-face {
+        font-family: "llr";
+        src: url(../fonts/LinBiolinum_R.woff) format('woff');
+    }
+    
+    .slide.portada .content h1 {
+        font-family: "llr";
+    }
+    
+    .slide.antecedentes .content h1, .slide.antecedentes .content p{
+        font-family: "llr";
+    }
+    
